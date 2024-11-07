@@ -1,0 +1,66 @@
+#root {
+  /* max-width: 1280px; */
+  /* margin: 0 auto; */
+  padding: 2rem;
+  /* text-align: center; */
+}
+
+/* 
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+} */
+
+body{
+  background-color: blueviolet;
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+}
+.timer{
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+}
+.heading{
+  text-align: center;
+}
+.start{
+  color: white;
+  background-color: purple;
+  padding: 5px 20px;
+  border-radius: 10px;
+  border:2px solid black;
+  /* transform: scale(1.5); */
+  /* transition: all 2s ease-in; */
+  font-size: large;
+  margin: 10px;
+}
+input{
+  width: 30px;
+  height: 30px;
+  outline: none;
+  border: none;
+  margin: 10px;
+  /* padding: 3px; */
+  text-align: center;
+}
+.label{
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  margin: 10px;
+  font-size: 20px;
+  font-weight: 800;
+ 
+}
