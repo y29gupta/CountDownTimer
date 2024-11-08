@@ -2,7 +2,7 @@
   "name": "countdowntimer",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://y29gupta.github.io/CountDownTimer/",
+  "homepage": "https://y29gupta.github.io/CountDownTimer",
   "type": "module",
   "scripts": {
     "dev": "vite",
